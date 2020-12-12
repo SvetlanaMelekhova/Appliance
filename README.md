@@ -1,1 +1,1 @@
-# Appliance
+# Appliances
